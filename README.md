@@ -12,8 +12,7 @@
 I am currently studying Computer Science at Cornell University, and interested in pursuing a Data Science minor. My coding journey
 has just only began, but I am thouroughly enjoying my experience and looking forward to develop my skills as a programmer.
 
-My goal is to explore the interesection of computer science and the arts, such as creating games or learning how to use
-machine learning to create prediction models from medical records.
+My goal is to explore the interesection of computer science and the arts, such as creating games, developing visual representations of data, or learning how to use machine learning to create prediction models from medical records.
 
 <br>
 
