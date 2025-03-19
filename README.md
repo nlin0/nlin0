@@ -3,9 +3,17 @@
 
 # ˚*•̩̩͙✩•̩̩͙˚ Hello, I'm Nicole. Welcome to my GitHub
 
+<br>
+
 I am currently studying Computer Science and pursuing a Data Science Minor at Cornell University. 
+
 I like hiking, Nintendo, drawing, video-making, and spending time with friends and family.
 
+<br>
+
+----------------
+
+<br>
 
 <!---
 ## ▼ About me
