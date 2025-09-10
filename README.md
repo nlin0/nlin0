@@ -1,7 +1,7 @@
 
 <br>
 
-# ˚*•̩̩͙✩•̩̩͙˚ Hello, I'm Nicole. Welcome to my GitHub
+# *✩ Hello, I'm Nicole. Welcome to my GitHub
 
 <br>
 
