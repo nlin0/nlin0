@@ -9,6 +9,8 @@ I am currently studying Computer Science and pursuing a Data Science Minor at Co
 
 I like hiking, Nintendo games, drawing, video-making, and spending time with friends and family.
 
+I'm currently working on a Mini RAG
+
 <br>
 
 ----------------
